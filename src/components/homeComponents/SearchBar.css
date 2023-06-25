@@ -1,0 +1,22 @@
+.Search-parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+    margin: 0;
+    border-bottom: solid #0496FF;
+    background-color: rgba(169, 169, 169, 0.175);
+}
+
+
+.Search {
+    height:30px ;
+    width: 200px;
+    background-color: rgba(22, 173, 254, 0.102);
+    font-size: large;
+    font-style: inherit;
+    border-radius: 12px;
+}
+.Search::placeholder{
+    color: #000;
+}

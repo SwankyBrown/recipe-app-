@@ -1,0 +1,22 @@
+.ad-image-element {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    
+  }
+
+  h1 {
+    color: rgb(255, 165, 48);
+    
+  }
+
+  h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+  }
+  
+  .blue-btn {
+    background-color: rgb(17, 148, 255);
+    border-radius: 0%;
+  }
